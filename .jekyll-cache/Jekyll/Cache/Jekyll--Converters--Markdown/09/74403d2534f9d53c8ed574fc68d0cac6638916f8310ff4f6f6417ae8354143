@@ -1,0 +1,31 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Mã CK</th>
+      <th style="text-align: center">Giá mua</th>
+      <th style="text-align: center">Giá cắt lỗ</th>
+      <th style="text-align: center">Giá chốt lãi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">AAA</td>
+      <td style="text-align: center">10.5</td>
+      <td style="text-align: center">8.5</td>
+      <td style="text-align: center">12.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">AAA</td>
+      <td style="text-align: center">10.5</td>
+      <td style="text-align: center">8.5</td>
+      <td style="text-align: center">12.5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">AAA</td>
+      <td style="text-align: center">10.5</td>
+      <td style="text-align: center">8.5</td>
+      <td style="text-align: center">12.5</td>
+    </tr>
+  </tbody>
+</table>
+:ET

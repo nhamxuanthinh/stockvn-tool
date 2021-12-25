@@ -1,0 +1,15 @@
+I"D<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Signature Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Minhas Kamal</td>
+      <td>&lt;pre&gt;main(m,k){<br />  for(<br />    ;<br />    m%k–?:(k=m++);<br />    k^1?:printf(“%i|”,m)<br />  );<br />}&lt;/pre&gt;</td>
+    </tr>
+  </tbody>
+</table>
+:ET

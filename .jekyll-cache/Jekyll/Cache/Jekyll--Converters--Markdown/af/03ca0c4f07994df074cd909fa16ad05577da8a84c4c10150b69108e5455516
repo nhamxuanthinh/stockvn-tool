@@ -1,0 +1,19 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Status</th>
+      <th>Response</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>200</td>
+      <td>&lt;pre lang="json"&gt;{<br />  “id”: 10,<br />  “username”: “alanpartridge”,<br />  “email”: “alan@alan.com”,<br />  “password_hash”: “$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS”,<br />  “password_salt”: “$2a$10$uhUIUmVWVnrBWx9rrDWhS.”,<br />  “created_at”: “2015-02-14T20:45:26.433Z”,<br />  “updated_at”: “2015-02-14T20:45:26.540Z”<br />}&lt;/pre&gt;</td>
+    </tr>
+    <tr>
+      <td>400</td>
+      <td><code>{<br />  "code": 400,<br />  "msg": balabala"<br />}</code></td>
+    </tr>
+  </tbody>
+</table>
+:ET
